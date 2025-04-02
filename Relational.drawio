@@ -298,7 +298,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pe3M-3Ekm3GnMlH-Dyut-137" value="training_session" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="501" y="-324" width="250" height="220" as="geometry" />
+          <mxGeometry x="545" y="-345" width="250" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Pe3M-3Ekm3GnMlH-Dyut-138" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Pe3M-3Ekm3GnMlH-Dyut-137">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -391,7 +391,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="epU8yuJWIh-Muts_LUfp-7" value="create another table for training session &amp;amp; puppy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="194" y="-143" width="276" height="26" as="geometry" />
+          <mxGeometry x="244" y="-130.38" width="276" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
